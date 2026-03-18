@@ -19,11 +19,9 @@ ___
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b8ee3ca6-8dce-4708-8da3-57583c136e9a" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/48981ae9-205c-4f75-84b6-e4be6402039e" />
 <br />
-
 * **Languages:** Python, JavaScript, TypeScript, SQL, HTML/CSS
 * **Frameworks & Tools:** React, Node.js, Express, Firebase, Git, PostgreSQL
-* <br />
-
+<br />
 <img width="56" height="50" alt="image" src="https://github.com/user-attachments/assets/148ed52c-e950-4020-9947-12dc22fb1085" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/16c845d0-53aa-4f3f-ac0b-f3e8b08b8b73" />
 <img width="67" height="50" alt="image" src="https://github.com/user-attachments/assets/2db2b161-1318-413b-88df-10e8083f0f3e" />
