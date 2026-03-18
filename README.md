@@ -11,6 +11,8 @@ ___
 * Integrating AI agents using TypeScript and the Vercel AI SDK.
 
 🛠 **Tech Stack:**
+* **Languages:** Python, JavaScript, TypeScript, SQL, HTML/CSS
+* **Frameworks & Tools:** React, Node.js, Express, Firebase, Git, PostgreSQL
 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b33a59cb-2a02-404a-8024-4b0057695d0b" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/2ffcef66-67f5-4c09-a5ec-a5eed11b7430" />
@@ -19,9 +21,6 @@ ___
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b8ee3ca6-8dce-4708-8da3-57583c136e9a" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/48981ae9-205c-4f75-84b6-e4be6402039e" />
 <br />
-* **Languages:** Python, JavaScript, TypeScript, SQL, HTML/CSS
-<br />
-* **Frameworks & Tools:** React, Node.js, Express, Firebase, Git, PostgreSQL
 <br />
 <img width="56" height="50" alt="image" src="https://github.com/user-attachments/assets/148ed52c-e950-4020-9947-12dc22fb1085" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/16c845d0-53aa-4f3f-ac0b-f3e8b08b8b73" />
