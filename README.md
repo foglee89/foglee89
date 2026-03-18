@@ -5,6 +5,10 @@
 I am a Software Engineer with a B.S. in Computer Science and a diverse background in technical project management and process engineering. I bring a systems-thinking approach honed by managing full-lifecycle $30MM construction projects, optimizing manufacturing workflows, and executing complex real estate investments. I am passionate about leveraging this cross-functional expertise to build scalable, resilient, and business-driven software solutions.
 
 ___
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foglee89&layout=compact)
+
+
 🌱 **Currently Focusing On:**
 * Deep-diving into Data Structures & Algorithms (Python).
 * Engineering full-stack web applications with React, Node.js, and PostgreSQL.
