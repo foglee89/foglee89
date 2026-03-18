@@ -12,7 +12,7 @@ ___
 
 🛠 **Tech Stack:**
 
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/c0bf88a5-769b-491b-8475-574ad0125d5e" />
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/b33a59cb-2a02-404a-8024-4b0057695d0b" />
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/2ffcef66-67f5-4c09-a5ec-a5eed11b7430" />
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/dd415979-f63c-4dda-a6da-912ea5538bd9" />
 <img width="214" height="100" alt="image" src="https://github.com/user-attachments/assets/0a6a4fb2-3a8e-42ea-90dc-792dc2a680e7" />
