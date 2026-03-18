@@ -20,6 +20,7 @@ ___
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/48981ae9-205c-4f75-84b6-e4be6402039e" />
 <br />
 * **Languages:** Python, JavaScript, TypeScript, SQL, HTML/CSS
+<br />
 * **Frameworks & Tools:** React, Node.js, Express, Firebase, Git, PostgreSQL
 <br />
 <img width="56" height="50" alt="image" src="https://github.com/user-attachments/assets/148ed52c-e950-4020-9947-12dc22fb1085" />
