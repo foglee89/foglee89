@@ -6,7 +6,7 @@ I am a Software Engineer with a B.S. in Computer Science and a diverse backgroun
 
 ___
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foglee89&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foglee89&layout=donut&langs_count=6)
 
 
 🌱 **Currently Focusing On:**
