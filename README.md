@@ -6,7 +6,7 @@ I am a Software Engineer with a B.S. in Computer Science and a diverse backgroun
 
 ___
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foglee89&layout=donut&langs_count=6&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foglee89&show_icons=true&layout=donut&langs_count=6&theme=radical)
 <!-- [![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=foglee89&theme=radical)](https://github.com/foglee89/github-readme-stats) -->
 
 🌱 **Currently Focusing On:**
